@@ -1,0 +1,14 @@
+.punch,
+.kick {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman",  sans-serif;
+}
+
+.punch{
+    background-color: black;
+    color: white;
+}
+
+.kick{
+    background-color: yellow;
+}
